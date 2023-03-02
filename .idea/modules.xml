@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/filmes/filmes.iml" filepath="$PROJECT_DIR$/filmes/filmes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/videoaula-teste-controllers-master.iml" filepath="$PROJECT_DIR$/.idea/videoaula-teste-controllers-master.iml" />
+    </modules>
+  </component>
+</project>
